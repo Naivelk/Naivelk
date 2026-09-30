@@ -4,7 +4,7 @@ Ingeniero de software en Colombia. Desarrollo aplicaciones **Full Stack**, autom
 
 Busco oportunidades de desarrollo Full Stack y automatización en Colombia o de forma remota.
 
-**[Portafolio y CV](https://kevin-quimbaya-portafolio.naivelk.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/kevin-santiago-quimbaya-andrade-086626338/)**
+**[Portafolio y CV](https://kevin-quimbaya.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/kevin-santiago-quimbaya-andrade-086626338/)**
 
 ## Proyectos seleccionados
 
@@ -13,7 +13,7 @@ Busco oportunidades de desarrollo Full Stack y automatización en Colombia o de 
 | **FekenTech** | Tienda en línea con catálogo, pagos mediante Wompi, inventario y gestión de pedidos. | [Sitio público](https://fekentech.com/) |
 | **Intercoast Insurance** | Sitio web, cotizador y automatizaciones para apoyar el seguimiento de casos. | [Sitio público](https://insuranceintercoast.com/) |
 | **MatrizApp** | Aplicación de gestión de riesgos digitales con API REST y persistencia en PostgreSQL. | [Código](https://github.com/Naivelk/MatrizApp) |
-| **AutoInspect** | Registro de inspecciones vehiculares con fotografías y generación de reportes PDF. | [Código](https://github.com/Naivelk/AutoInspect-PDF-Reports) |
+| **AutoInspect** | Registro de inspecciones vehiculares con fotografías y generación de reportes PDF. | [Demo](https://autointercoast.netlify.app/) · [Código](https://github.com/Naivelk/AutoInspect-PDF-Reports) |
 | **Job Alert Bot** | Filtrado de vacantes, evaluación de afinidad con IA y alertas por Telegram. | [Código](https://github.com/Naivelk/job-alert) |
 
 Los proyectos comerciales enlazan a sus sitios públicos; sus repositorios de trabajo permanecen privados.
